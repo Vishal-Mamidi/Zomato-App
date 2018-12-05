@@ -1,6 +1,6 @@
 class Zomato{
     constructor(){
-        this.api = "d251e0d78ac19f1a02702e2370b6c059";
+        this.api = "";
         this.header = {
             method:"GET",
             headers:{
